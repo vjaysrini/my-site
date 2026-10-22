@@ -1,0 +1,36 @@
+# ------------------------------------------------------------
+#  Hi. You opened a robots.txt on a personal site.
+#  You're exactly who I'm hoping to work with.
+#  - Vijay Srinivas, Organic Growth | SEO + AEO
+# ------------------------------------------------------------
+
+# AI crawlers: come on in. Getting cited is literally my job.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+Allow: /
+
+# Search engines: also welcome. We go way back.
+User-agent: Googlebot
+User-agent: Bingbot
+Allow: /
+
+# Recruiters and hiring managers
+# (not a real user-agent, but you get the idea)
+User-agent: Recruiter
+Allow: /
+Allow: /llms.txt
+Disallow: /lowball-offers
+
+# Everyone else
+User-agent: *
+Allow: /
+
+# The machine-readable version of me lives here:
+# https://vijaysrinivas.com/llms.txt
+
+Sitemap: https://vijaysrinivas.com/sitemap.xml

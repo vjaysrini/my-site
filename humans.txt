@@ -1,0 +1,19 @@
+/* HUMAN */
+
+Name: Vijay Srinivas
+Role: Organic Growth | SEO + AEO
+Location: Chennai, India (works remote)
+Contact: vijaysrinivas23@gmail.com
+LinkedIn: linkedin.com/in/vijaysrinivas1
+
+/* NOTE */
+
+The robots got a robots.txt and an llms.txt.
+You get this one. Thanks for being curious enough to look.
+If you're hiring for organic growth, SEO or AEO, let's talk growth, not just traffic.
+
+/* SITE */
+
+Built with: plain HTML, one stylesheet, zero frameworks
+Hosted on: GitHub Pages
+Languages: English, Tamil
